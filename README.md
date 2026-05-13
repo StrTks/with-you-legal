@@ -129,5 +129,3 @@ We may update this Privacy Policy from time to time. The “Last updated” date
 ## 12. Contact
 
 For privacy questions or requests (including access, correction, or deletion where applicable under local law), contact: **taqcuong1996@gmail.com**.
-
-*(Host this document at a public HTTPS URL and add that URL to Google Play and App Store Connect.)*
