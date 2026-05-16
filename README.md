@@ -88,10 +88,12 @@ Processing is governed by **Google’s policies**, including:
 - [Google Privacy Policy](https://policies.google.com/privacy)
 - [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)
 
+**iOS App Tracking Transparency:** On iPhone and iPad, the App may show Apple’s system prompt asking whether to allow tracking across other companies’ apps and websites. This uses the advertising identifier (IDFA) only if you tap **Allow**. If you tap **Ask App Not to Track**, ads may still appear but are typically less personalized. You can change your choice later in **Settings → Privacy & Security → Tracking**.
+
 You can limit ad personalization on your device:
 
 - **Android:** Google Settings → Ads, or equivalent device settings.  
-- **iOS:** Settings → Privacy & Security → Apple Advertising / Tracking (options vary by iOS version).
+- **iOS:** Settings → Privacy & Security → Tracking / Apple Advertising (options vary by iOS version).
 
 The App may apply **content rating** and **frequency limits** for ads in the App’s code; this does not change that Google’s SDK processes data as described above when ads load.
 
